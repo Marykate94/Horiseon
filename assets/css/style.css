@@ -68,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*changed to ID instead of class */
 #content {
     width: 75%;
     display: inline-block;
@@ -85,12 +85,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated benefit section styling */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* consolidated benefit section styling */
+
 /* 
 .benefit-brand {
     margin-bottom: 32px;
