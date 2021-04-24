@@ -1,4 +1,4 @@
-# Horiseon Social Solutions Sercices, Inc.
+# Horiseon Social Solutions Services, Inc.
 
 ## Purpose
 A marketing website that offers social services. 
